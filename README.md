@@ -2,7 +2,7 @@
 
 Memorial interactivo donde los desarrolladores **entierran** sus ideas a medias, repositorios olvidados o proyectos que nunca llegaron a producción. Cada proyecto se guarda en **SQLite** como una lápida digital con su autopsia técnica: stack usado, causa de muerte y nivel de progreso. Otros usuarios pueden dejar **flores** o **resucitar** (adoptar) la idea para terminarla.
 
-🔗 **Demo:** `https://TU-PROYECTO.vercel.app`
+🔗 **Demo:** `https://developer-project-graveyard.vercel.app/`
 
 ## Funcionalidades
 
