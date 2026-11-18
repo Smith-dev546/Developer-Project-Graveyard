@@ -1,0 +1,20 @@
+{
+  "name": "cementerio-de-proyectos-abandonados",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Memorial interactivo para proyectos de software abandonados, con SQLite en el navegador (sql.js).",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "sql.js": "^1.11.0"
+  },
+  "devDependencies": {
+    "@types/sql.js": "^1.4.9",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
